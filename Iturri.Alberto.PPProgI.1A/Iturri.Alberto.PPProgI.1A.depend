@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666615395 source:c:\users\electro hard\desktop\programacion\clases del 2do cuatri 2022\clase 18 (parcial de prog)\iturri.alberto.ppprogi.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
